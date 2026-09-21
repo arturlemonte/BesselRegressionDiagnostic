@@ -1,0 +1,191 @@
+"UHE" "IQA" "LOCAL" "TRIM"
+"10" "Apucaraninha" 0.68 "MONT" 1
+"11" "Apucaraninha" 0.83 "RESER" 1
+"12" "Apucaraninha" 0.76 "JUSA" 1
+"13" "Apucaraninha" 0.53 "MONT" 2
+"14" "Apucaraninha" 0.75 "RESER" 2
+"15" "Apucaraninha" 0.64 "JUSA" 2
+"16" "Apucaraninha" 0.72 "MONT" 3
+"17" "Apucaraninha" 0.81 "RESER" 3
+"18" "Apucaraninha" 0.84 "JUSA" 3
+"19" "Apucaraninha" 0.78 "MONT" 4
+"20" "Apucaraninha" 0.85 "RESER" 4
+"21" "Apucaraninha" 0.86 "JUSA" 4
+"73" "Capivari" 0.58 "MONT" 1
+"74" "Capivari" 0.84 "RESER" 1
+"75" "Capivari" 0.77 "JUSA" 1
+"76" "Capivari" 0.71 "MONT" 2
+"77" "Capivari" 0.9 "RESER" 2
+"78" "Capivari" 0.93 "JUSA" 2
+"79" "Capivari" 0.8 "MONT" 3
+"80" "Capivari" 0.88 "RESER" 3
+"81" "Capivari" 0.85 "JUSA" 3
+"82" "Capivari" 0.67 "MONT" 4
+"83" "Capivari" 0.89 "RESER" 4
+"84" "Capivari" 0.9 "JUSA" 4
+"142" "Cavernoso" 0.85 "MONT" 1
+"143" "Cavernoso" 0.92 "RESER" 1
+"144" "Cavernoso" 0.87 "JUSA" 1
+"145" "Cavernoso" 0.77 "MONT" 2
+"146" "Cavernoso" 0.79 "RESER" 2
+"147" "Cavernoso" 0.74 "JUSA" 2
+"148" "Cavernoso" 0.89 "MONT" 3
+"149" "Cavernoso" 0.84 "RESER" 3
+"150" "Cavernoso" 0.89 "JUSA" 3
+"151" "Cavernoso" 0.8 "MONT" 4
+"152" "Cavernoso" 0.83 "RESER" 4
+"153" "Cavernoso" 0.85 "JUSA" 4
+"199" "Caxias" 0.79 "MONT" 1
+"200" "Caxias" 0.73 "RESER" 1
+"201" "Caxias" 0.51 "JUSA" 1
+"203" "Caxias" 0.86 "RESER" 2
+"204" "Caxias" 0.86 "JUSA" 2
+"205" "Caxias" 0.86 "MONT" 3
+"206" "Caxias" 0.89 "RESER" 3
+"207" "Caxias" 0.9 "JUSA" 3
+"208" "Caxias" 0.76 "MONT" 4
+"209" "Caxias" 0.83 "RESER" 4
+"210" "Caxias" 0.79 "JUSA" 4
+"268" "Chaminé" 0.77 "MONT" 1
+"269" "Chaminé" 0.79 "RESER" 1
+"270" "Chaminé" 0.82 "JUSA" 1
+"271" "Chaminé" 0.78 "MONT" 2
+"272" "Chaminé" 0.78 "RESER" 2
+"273" "Chaminé" 0.87 "JUSA" 2
+"274" "Chaminé" 0.79 "MONT" 3
+"275" "Chaminé" 0.89 "RESER" 3
+"276" "Chaminé" 0.83 "JUSA" 3
+"277" "Chaminé" 0.9 "MONT" 4
+"278" "Chaminé" 0.9 "RESER" 4
+"279" "Chaminé" 0.9 "JUSA" 4
+"334" "Chopim" 0.86 "MONT" 1
+"335" "Chopim" 0.86 "RESER" 1
+"336" "Chopim" 0.84 "JUSA" 1
+"337" "Chopim" 0.86 "MONT" 2
+"338" "Chopim" 0.74 "RESER" 2
+"339" "Chopim" 0.74 "JUSA" 2
+"340" "Chopim" 0.88 "MONT" 3
+"341" "Chopim" 0.88 "RESER" 3
+"342" "Chopim" 0.91 "JUSA" 3
+"343" "Chopim" 0.8 "MONT" 4
+"344" "Chopim" 0.84 "RESER" 4
+"345" "Chopim" 0.69 "JUSA" 4
+"400" "Foz do Areia" 0.77 "MONT" 1
+"401" "Foz do Areia" 0.63 "RESER" 1
+"402" "Foz do Areia" 0.83 "JUSA" 1
+"403" "Foz do Areia" 0.74 "MONT" 2
+"404" "Foz do Areia" 0.9 "RESER" 2
+"405" "Foz do Areia" 0.82 "JUSA" 2
+"406" "Foz do Areia" 0.64 "MONT" 3
+"407" "Foz do Areia" 0.86 "RESER" 3
+"408" "Foz do Areia" 0.8 "JUSA" 3
+"409" "Foz do Areia" 0.74 "MONT" 4
+"410" "Foz do Areia" 0.82 "RESER" 4
+"411" "Foz do Areia" 0.82 "JUSA" 4
+"472" "Guaricana" 0.81 "MONT" 1
+"473" "Guaricana" 0.79 "RESER" 1
+"474" "Guaricana" 0.67 "JUSA" 1
+"475" "Guaricana" 0.84 "MONT" 2
+"476" "Guaricana" 0.87 "RESER" 2
+"477" "Guaricana" 0.86 "JUSA" 2
+"478" "Guaricana" 0.83 "MONT" 3
+"479" "Guaricana" 0.91 "RESER" 3
+"480" "Guaricana" 0.92 "JUSA" 3
+"481" "Guaricana" 0.91 "MONT" 4
+"482" "Guaricana" 0.86 "RESER" 4
+"535" "Jordao" 0.91 "MONT" 1
+"536" "Jordao" 0.9 "RESER" 1
+"537" "Jordao" 0.88 "JUSA" 1
+"538" "Jordao" 0.86 "MONT" 2
+"539" "Jordao" 0.9 "RESER" 2
+"540" "Jordao" 0.89 "JUSA" 2
+"541" "Jordao" 0.85 "MONT" 3
+"542" "Jordao" 0.82 "RESER" 3
+"543" "Jordao" 0.73 "JUSA" 3
+"544" "Jordao" 0.9 "MONT" 4
+"545" "Jordao" 0.87 "RESER" 4
+"546" "Jordao" 0.87 "JUSA" 4
+"607" "Melissa" 0.58 "MONT" 1
+"608" "Melissa" 0.57 "RESER" 1
+"609" "Melissa" 0.64 "JUSA" 1
+"610" "Melissa" 0.85 "MONT" 2
+"611" "Melissa" 0.87 "RESER" 2
+"612" "Melissa" 0.84 "JUSA" 2
+"613" "Melissa" 0.76 "MONT" 3
+"614" "Melissa" 0.84 "RESER" 3
+"615" "Melissa" 0.89 "JUSA" 3
+"616" "Melissa" 0.7 "MONT" 4
+"617" "Melissa" 0.71 "RESER" 4
+"618" "Melissa" 0.61 "JUSA" 4
+"673" "Mourao" 0.73 "MONT" 1
+"674" "Mourao" 0.88 "RESER" 1
+"675" "Mourao" 0.85 "JUSA" 1
+"676" "Mourao" 0.84 "MONT" 2
+"677" "Mourao" 0.81 "RESER" 2
+"678" "Mourao" 0.84 "JUSA" 2
+"679" "Mourao" 0.77 "MONT" 3
+"680" "Mourao" 0.9 "RESER" 3
+"681" "Mourao" 0.86 "JUSA" 3
+"682" "Mourao" 0.61 "MONT" 4
+"683" "Mourao" 0.87 "RESER" 4
+"684" "Mourao" 0.73 "JUSA" 4
+"739" "Pitangui" 0.77 "MONT" 1
+"740" "Pitangui" 0.78 "RESER" 1
+"741" "Pitangui" 0.85 "JUSA" 1
+"742" "Pitangui" 0.87 "MONT" 2
+"743" "Pitangui" 0.84 "RESER" 2
+"744" "Pitangui" 0.82 "JUSA" 2
+"745" "Pitangui" 0.79 "MONT" 3
+"746" "Pitangui" 0.72 "RESER" 3
+"747" "Pitangui" 0.71 "JUSA" 3
+"748" "Pitangui" 0.79 "MONT" 4
+"749" "Pitangui" 0.65 "RESER" 4
+"750" "Pitangui" 0.71 "JUSA" 4
+"808" "Rio dos Patos" 0.74 "MONT" 1
+"809" "Rio dos Patos" 0.78 "RESER" 1
+"810" "Rio dos Patos" 0.74 "JUSA" 1
+"811" "Rio dos Patos" 0.69 "MONT" 2
+"812" "Rio dos Patos" 0.74 "RESER" 2
+"813" "Rio dos Patos" 0.78 "JUSA" 2
+"814" "Rio dos Patos" 0.84 "MONT" 3
+"815" "Rio dos Patos" 0.77 "RESER" 3
+"816" "Rio dos Patos" 0.78 "JUSA" 3
+"817" "Rio dos Patos" 0.7 "MONT" 4
+"818" "Rio dos Patos" 0.7 "RESER" 4
+"819" "Rio dos Patos" 0.76 "JUSA" 4
+"880" "Salto do Vau" 0.85 "MONT" 1
+"881" "Salto do Vau" 0.88 "RESER" 1
+"882" "Salto do Vau" 0.82 "JUSA" 1
+"883" "Salto do Vau" 0.93 "MONT" 2
+"884" "Salto do Vau" 0.79 "RESER" 2
+"885" "Salto do Vau" 0.92 "JUSA" 2
+"886" "Salto do Vau" 0.91 "MONT" 3
+"887" "Salto do Vau" 0.86 "RESER" 3
+"888" "Salto do Vau" 0.77 "JUSA" 3
+"889" "Salto do Vau" 0.81 "MONT" 4
+"890" "Salto do Vau" 0.82 "RESER" 4
+"891" "Salto do Vau" 0.7 "JUSA" 4
+"946" "São Jorge" 0.81 "MONT" 1
+"947" "São Jorge" 0.72 "RESER" 1
+"948" "São Jorge" 0.77 "JUSA" 1
+"949" "São Jorge" 0.79 "MONT" 2
+"950" "São Jorge" 0.82 "RESER" 2
+"951" "São Jorge" 0.87 "JUSA" 2
+"952" "São Jorge" 0.8 "MONT" 3
+"953" "São Jorge" 0.82 "RESER" 3
+"954" "São Jorge" 0.79 "JUSA" 3
+"955" "São Jorge" 0.59 "MONT" 4
+"956" "São Jorge" 0.67 "RESER" 4
+"957" "São Jorge" 0.79 "JUSA" 4
+"1018" "Segredo" 0.54 "MONT" 1
+"1019" "Segredo" 0.9 "RESER" 1
+"1020" "Segredo" 0.82 "JUSA" 1
+"1021" "Segredo" 0.8 "MONT" 2
+"1022" "Segredo" 0.85 "RESER" 2
+"1023" "Segredo" 0.81 "JUSA" 2
+"1024" "Segredo" 0.84 "MONT" 3
+"1025" "Segredo" 0.86 "RESER" 3
+"1026" "Segredo" 0.88 "JUSA" 3
+"1027" "Segredo" 0.77 "MONT" 4
+"1028" "Segredo" 0.84 "RESER" 4
+"1029" "Segredo" 0.81 "JUSA" 4
